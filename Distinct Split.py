@@ -1,6 +1,6 @@
 from collections import Counter
 n = int(input())
-for _ in range(n):
+for i in range(n):
     length = int(input())
     testcase = input()
 
